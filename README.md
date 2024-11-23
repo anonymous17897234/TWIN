@@ -22,7 +22,7 @@ The results presented in the paper can be accessed without running the code.
   - For **Study1**, located in: `Study1/data/~~prompting/`
   - For **Study2**, located in: `Study2/Data_Case{}/~~prompting/`
 
-#### Groundtruth (Human Responses):
+#### Ground-truth (Human Responses):
 - The actual human responses (groundtruth) can be found in:
   - **Study1**: `dv_total.csv` and `idv_total.csv`
   - **Study2**: Excel (xlsx) file

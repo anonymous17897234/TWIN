@@ -5,11 +5,11 @@ For reproducibility, we also uploaded the dataset.
 
 ---
 
-### 파일 경로 및 설정
+### File Paths and Configuration
 
 Most of the uploaded code matches the file paths specified in the repository. However, some file paths, including the **API_KEY**, will require configuration.
 
-### 결과 확인
+### Accessing Results
 
 The results presented in the paper can be accessed without running the code.
 

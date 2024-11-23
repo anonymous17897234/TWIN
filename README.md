@@ -44,5 +44,5 @@ By reviewing steps 1 and 2, all results reported in the paper’s tables can be 
 
 ### Viewing Results via Jupyter Notebooks
 
-In addition to the CSV files, you can also directly view the results with Jupyter Notebook files in the **code** folder.
+In addition to the CSV files, you can also directly view the results with Jupyter Notebook files in the **code** folder.
 

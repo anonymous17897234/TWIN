@@ -1,0 +1,17 @@
+Folder,Metric,Pair,Value
+Demo_prompting,Jensen-Shannon,LOY_1 vs Q1,0.29432495695567296
+Demo_prompting,Jensen-Shannon,LOY_2 vs Q2,0.3525561032699852
+Demo_prompting,Jensen-Shannon,LOY_3 vs Q3,0.15546796850160408
+Demo_prompting,Wasserstein,LOY_1 vs Q1,0.7748148148148147
+Demo_prompting,Wasserstein,LOY_2 vs Q2,1.3925925925925926
+Demo_prompting,Wasserstein,LOY_3 vs Q3,0.6829629629629628
+Demo_prompting,Jensen-Shannon (Average),Q1-Q3 Average,0.2674496762424207
+Demo_prompting,Wasserstein (Average),Q1-Q3 Average,0.9501234567901232
+Omni_prompting,Jensen-Shannon,LOY_1 vs Q1,0.055090743221153024
+Omni_prompting,Jensen-Shannon,LOY_2 vs Q2,0.06961604268621112
+Omni_prompting,Jensen-Shannon,LOY_3 vs Q3,0.1894086220562537
+Omni_prompting,Wasserstein,LOY_1 vs Q1,0.37333333333333324
+Omni_prompting,Wasserstein,LOY_2 vs Q2,0.4562962962962963
+Omni_prompting,Wasserstein,LOY_3 vs Q3,1.2281481481481482
+Omni_prompting,Jensen-Shannon (Average),Q1-Q3 Average,0.10470513598787261
+Omni_prompting,Wasserstein (Average),Q1-Q3 Average,0.6859259259259259

@@ -1,0 +1,12 @@
+PLS-SEM Analysis Summary:
+
+P-values for paths from bootstrapping using t-test:
+0.06570
+ 0.90588
+ 0.37204
+ 0.38691
+ 0.29215
+ 0.82119
+ 0.00000
+ 0.93798
+ 0.00000

@@ -9,6 +9,10 @@ For reproducibility, we also uploaded the dataset.
 
 Most of the uploaded code matches the file paths specified in the repository. However, some file paths, including the **API_KEY**, will require configuration.
 
+### Note on Persona-driven Prompting
+
+The "Persona-driven prompting" approach in this repository corresponds to the "LLM-Twin approach" discussed in the paper.
+
 ### Accessing Results
 
 The results presented in the paper can be accessed without running the code.
@@ -40,4 +44,5 @@ By reviewing steps 1 and 2, all results reported in the paper’s tables can be 
 
 ### Viewing Results via Jupyter Notebooks
 
-In addition to the CSV files, you can also directly view the results with Jupyter Notebook files in the **code** folder.  
+In addition to the CSV files, you can also directly view the results with Jupyter Notebook files in the **code** folder.
+

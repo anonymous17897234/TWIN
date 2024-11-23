@@ -1,3 +1,9 @@
+### Survey Items Information
+
+The survey items used in each study can be found in the **survey_items.pdf** file.
+
+---
+
 ### Each folder (Study1, Study2) contains the source code for the study represented in the paper.
 
 In each folder, you can find the prompt code for 4 approaches (baseline prompting, demo prompting, omni prompting, and persona_driven_prompting).  

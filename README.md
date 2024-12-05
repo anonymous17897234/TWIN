@@ -17,7 +17,7 @@ Most of the uploaded code matches the file paths specified in the repository. Ho
 
 ### Note on Persona-driven Prompting
 
-The "Persona-driven prompting" approach in this repository corresponds to the "LLM-Twin approach" discussed in the paper.
+The "Persona-driven prompting" approach in this repository corresponds to the "LLM-Mirror approach" discussed in the paper.
 
 ### Accessing Results
 
